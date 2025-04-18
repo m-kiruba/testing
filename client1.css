@@ -1,3 +1,4 @@
+body {
 /* Common */
 --button-font-weight: 500;
 --button-focused-outline: 2px solid #d0d0d0;
@@ -65,3 +66,4 @@
 --button-link-disabled-color: transparent;
 --button-link-disabled-text-color: #9ca3af;
 --button-link-disabled-border-color: transparent;
+}
