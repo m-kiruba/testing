@@ -1,0 +1,67 @@
+/* Common */
+--button-font-weight: 500;
+--button-focused-outline: 2px solid #d0d0d0;
+
+/* PRIMARY */
+--button-primary-color: #111827;
+--button-primary-text-color: #ffffff;
+--button-primary-border-width: 1px;
+--button-primary-border-style: solid;
+--button-primary-border-color: #111827;
+--button-primary-hover-color: #1f2937;
+--button-primary-hover-text-color: #ffffff;
+--button-primary-hover-border-color: #1f2937;
+--button-primary-pressed-color: #0f172a;
+--button-primary-pressed-text-color: #ffffff;
+--button-primary-pressed-border-color: #0f172a;
+--button-primary-disabled-color: #e5e7eb;
+--button-primary-disabled-text-color: #9ca3af;
+--button-primary-disabled-border-color: transparent;
+
+/* SECONDARY */
+--button-secondary-color: #f9fafb;
+--button-secondary-text-color: #111827;
+--button-secondary-border-width: 1px;
+--button-secondary-border-style: solid;
+--button-secondary-border-color: #d1d5db;
+--button-secondary-hover-color: #f3f4f6;
+--button-secondary-hover-text-color: #111827;
+--button-secondary-hover-border-color: #9ca3af;
+--button-secondary-pressed-color: #e5e7eb;
+--button-secondary-pressed-text-color: #111827;
+--button-secondary-pressed-border-color: #6b7280;
+--button-secondary-disabled-color: #f9fafb;
+--button-secondary-disabled-text-color: #d1d5db;
+--button-secondary-disabled-border-color: transparent;
+
+/* TERTIARY */
+--button-tertiary-color: transparent;
+--button-tertiary-text-color: #374151;
+--button-tertiary-border-width: 0px;
+--button-tertiary-border-style: none;
+--button-tertiary-border-color: transparent;
+--button-tertiary-hover-color: #f3f4f6;
+--button-tertiary-hover-text-color: #111827;
+--button-tertiary-hover-border-color: transparent;
+--button-tertiary-pressed-color: #e5e7eb;
+--button-tertiary-pressed-text-color: #111827;
+--button-tertiary-pressed-border-color: transparent;
+--button-tertiary-disabled-color: transparent;
+--button-tertiary-disabled-text-color: #9ca3af;
+--button-tertiary-disabled-border-color: transparent;
+
+/* LINK */
+--button-link-color: transparent;
+--button-link-text-color: #2563eb;
+--button-link-border-width: 0px;
+--button-link-border-style: none;
+--button-link-border-color: transparent;
+--button-link-hover-color: transparent;
+--button-link-hover-text-color: #1d4ed8;
+--button-link-hover-border-color: transparent;
+--button-link-pressed-color: transparent;
+--button-link-pressed-text-color: #1e40af;
+--button-link-pressed-border-color: transparent;
+--button-link-disabled-color: transparent;
+--button-link-disabled-text-color: #9ca3af;
+--button-link-disabled-border-color: transparent;
