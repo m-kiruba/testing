@@ -1,0 +1,70 @@
+body {
+
+  /* Common */
+--button-font-weight: 600;
+--button-focused-outline: 3px solid #b0f6ff;
+
+/* PRIMARY */
+--button-primary-color: #1fc1f3;
+--button-primary-text-color: #ffffff;
+--button-primary-border-width: 0;
+--button-primary-border-style: solid;
+--button-primary-border-color: transparent;
+--button-primary-hover-color: color-mix(in oklab, #1fc1f3 90%, black);
+--button-primary-hover-text-color: #ffffff;
+--button-primary-hover-border-color: transparent;
+--button-primary-pressed-color: color-mix(in oklab, #1fc1f3 80%, black);
+--button-primary-pressed-text-color: #ffffff;
+--button-primary-pressed-border-color: transparent;
+--button-primary-disabled-color: #e3faff;
+--button-primary-disabled-text-color: #a6cbd4;
+--button-primary-disabled-border-color: transparent;
+
+/* SECONDARY */
+--button-secondary-color: #ffffff;
+--button-secondary-text-color: #1a1a1a;
+--button-secondary-border-width: 1px;
+--button-secondary-border-style: solid;
+--button-secondary-border-color: #c0d7df;
+--button-secondary-hover-color: #f4f9fa;
+--button-secondary-hover-text-color: #1a1a1a;
+--button-secondary-hover-border-color: #a3c4cd;
+--button-secondary-pressed-color: #eaf3f5;
+--button-secondary-pressed-text-color: #1a1a1a;
+--button-secondary-pressed-border-color: #90b6c1;
+--button-secondary-disabled-color: #f8fbfc;
+--button-secondary-disabled-text-color: #bfcdd2;
+--button-secondary-disabled-border-color: transparent;
+
+/* TERTIARY */
+--button-tertiary-color: transparent;
+--button-tertiary-text-color: #1a1a1a;
+--button-tertiary-border-width: 0px;
+--button-tertiary-border-style: none;
+--button-tertiary-border-color: transparent;
+--button-tertiary-hover-color: #f0fcff;
+--button-tertiary-hover-text-color: #111111;
+--button-tertiary-hover-border-color: transparent;
+--button-tertiary-pressed-color: #e1f6fb;
+--button-tertiary-pressed-text-color: #000000;
+--button-tertiary-pressed-border-color: transparent;
+--button-tertiary-disabled-color: transparent;
+--button-tertiary-disabled-text-color: #bccdd1;
+--button-tertiary-disabled-border-color: transparent;
+
+/* LINK */
+--button-link-color: transparent;
+--button-link-text-color: #007ea7;
+--button-link-border-width: 0px;
+--button-link-border-style: none;
+--button-link-border-color: transparent;
+--button-link-hover-color: transparent;
+--button-link-hover-text-color: #005f7a;
+--button-link-hover-border-color: transparent;
+--button-link-pressed-color: transparent;
+--button-link-pressed-text-color: #004a5f;
+--button-link-pressed-border-color: transparent;
+--button-link-disabled-color: transparent;
+--button-link-disabled-text-color: #a1c2ca;
+--button-link-disabled-border-color: transparent;
+}
