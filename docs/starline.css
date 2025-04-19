@@ -8,7 +8,7 @@ body {
 
   /* Buttons Common */
   --button-border-radius: 0px; /* Newly introduced */
-  --button-font-weight: 600;
+  --button-font-weight: 400;
   --button-focused-outline: 3px solid #cfeffc;
 
   /* Primary */
@@ -65,13 +65,13 @@ body {
 
   /* Link */
   --button-link-color: ;
-  --button-link-text-color: #232833;
+  --button-link-text-color: #51b592;
   --button-link-border-width: 0px;
   --button-link-border-style: var(--border-common-style);
   --button-link-border-color: #1870c3;
   --button-link-hover-border-color: ;
   --button-link-hover-color: ;
-  --button-link-hover-text-color: #76839c;
+  --button-link-hover-text-color: color-mix(in oklab, var(--button-link-text-color) 90%, black);
   --button-link-pressed-color: ;
   --button-link-pressed-text-color: #76839c;
   --button-link-pressed-border-color: ;
